@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Damien
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Java & Angular
+- 💞️ I’m looking to create my own Video Game
+- 📫 How to reach me ? By Wifi
+- 😄 Pronouns: He
+- ⚡ Fun fact: Why do programmers prefer cold weather? Because it's easier to catch bugs when it's freezing!
